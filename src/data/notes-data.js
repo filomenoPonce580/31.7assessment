@@ -12,3 +12,4 @@ module.exports = [
     text: "Some JSON API's don't follow the JSON API specification",
   },
 ];
+
